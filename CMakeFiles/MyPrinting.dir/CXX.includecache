@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/roger/C++/Lecture2/CMakeLibraryAndApp/mpMultiplying.h
+
+/home/roger/C++/Lecture2/CMakeLibraryAndApp/mpPrinting.cpp
+mpPrinting.h
+/home/roger/C++/Lecture2/CMakeLibraryAndApp/mpPrinting.h
+mpMultiplying.h
+/home/roger/C++/Lecture2/CMakeLibraryAndApp/mpMultiplying.h
+iostream
+-
+vector
+-
+algorithm
+-
+
+/home/roger/C++/Lecture2/CMakeLibraryAndApp/mpPrinting.h
+

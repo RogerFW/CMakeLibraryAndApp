@@ -1,5 +1,5 @@
-#ifndef mpPrinting_h
-#define mpPrinting_h
+#ifndef mpPrint_h
+#define mpPrint_h
 #include <vector>
 namespace mp
 {

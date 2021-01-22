@@ -1,0 +1,5 @@
+/home/roger/C++/Lecture2/CMakeLibraryAndApp/CMakeFiles/edit_cache.dir
+/home/roger/C++/Lecture2/CMakeLibraryAndApp/CMakeFiles/myApp.dir
+/home/roger/C++/Lecture2/CMakeLibraryAndApp/CMakeFiles/rebuild_cache.dir
+/home/roger/C++/Lecture2/CMakeLibraryAndApp/CMakeFiles/MyPrinting.dir
+/home/roger/C++/Lecture2/CMakeLibraryAndApp/CMakeFiles/MyMaths.dir
